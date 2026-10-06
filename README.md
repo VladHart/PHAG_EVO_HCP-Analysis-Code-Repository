@@ -28,9 +28,9 @@ Submission of a request does not guarantee that access will be granted. The scop
 
 Reasonable inquiries should be addressed to:
 
-**Corresponding author:** [Insert name]  
-**Institution:** [Insert institution]  
-**Email:** [Insert email address]  
+**Corresponding author:** Vladica Velickovic
+**Institution:** HARTMANN GROUP
+**Email:** vladica.velickovic@hartmann.info  
 
 Requests should include the proposed research question, scientific rationale, requested variables, intended analytical methods, planned outputs, requested access period, and information on data security and governance arrangements.
 
